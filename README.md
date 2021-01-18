@@ -40,4 +40,12 @@ Using knowledge of R, t-tests determine if all manufacturing lots and each lot i
 
 The p-value of the suspension coil is above the significance level of 0.05%. Therefore, the importance of finding is normal. For each lot, the p-values for Lots 1 and 2 are above above the significance level and therefore, the results are not statistically different. The p-value for lot 3 below the significance level and therefore,  is statistically different.
 
+## Study Design: MechaCar vs Competition
 
+* One metric that would be tested would be the horsepower, which referes to the power and engine produces.
+
+* A null hypothesis (Ho) can be stated how it is not different from the competitor, while the alternative (Ha) is how it is different.
+
+* A sample t-test would be used to test the hypothesis.
+
+* The observed sample mean against the presumed population mean will be used as data to run the statistical t-test.
